@@ -1,0 +1,95 @@
+{
+"id":   
+"form":
+"memberLevel": 
+"createdBy": 
+"owner": 
+"contentType": 
+"textToSpeech": 
+"editor_access": 
+"tags": 
+"categories": [
+	{
+	"id": 
+	"type": 
+	}
+],
+"title": 
+"medias": 
+"content": 
+"secondaryContent":
+"explanation": 
+"appIds": 
+"publishState": 
+"type": 
+"formula" : [
+	{
+	"id" : 
+	"localId" :
+    "name" : 
+	"infoVariables": [
+		{
+		"idVariable" : 
+		"interval" : [
+			{
+			"up" : 
+			"down" : 
+			"step" : 
+			},
+		],
+		"computation" :
+		"list" : 
+		"linkTo" :
+		}
+	]
+	}
+], 
+"linksToItem": [],
+"payload_schema": 
+"payload":
+"filteredByMemberFields": 
+"memberBranchesIndex":
+"memberCurrentDegreesIndex": 
+"memberCurrentDegreeFieldsIndex": 
+"memberCurrentExamsIndex": 
+"memberObtainedDegreesIndex": 
+"memberLevelOfEducationsIndex": 
+"memberMajorsIndex": 
+"memberMinorsIndex": 
+"memberLanguageChoicesIndex":
+"memberSpecialtiesIndex":
+"memberOptionalSubjectsIndex": 
+"memberCurrentSchoolsIndex": 
+"memberCountriesIndex": 
+"memberStatesIndex": 
+"numberOfActivatedMemberFilter": 
+"allowMultipleResponses": 
+"numberOfAnswersTotal" : 
+"choices": [
+	{
+	"numberOfAnswers" : 
+	"filters" : [
+	{
+	"type" :
+	"levelofEducation" : 
+	"discipline" : 
+	"chapter" :
+	}
+	],
+    "eventId":
+	"content":  
+	"weight": 
+	"explanation": 
+	"explanationMediumId": 
+	},
+],
+"memberWishedDomainsIndex": 
+"memberWishedDomainOptionsIndex": 
+"filtersIndexes": 
+"slug": 
+"createdAt": 
+"updatedAt": 
+"value": 
+"difficulty": 
+"parentsFixedAt": 
+}

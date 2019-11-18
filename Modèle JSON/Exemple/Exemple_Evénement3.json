@@ -1,0 +1,21 @@
+{
+
+"createdBy": "5c0e206b77a2be2f1c752cf6",
+"owner": "5c0e206b77a2be2f1c752cf6",
+"contentType": "evénement",
+"name": "Edit de Nantes",
+"publishState": "published",
+"createdAt": "2019-05-17T12:54:15.705Z",
+"updatedAt": "2019-08-28T16:21:43.017Z",
+"explanation" : "L’édit de Nantes est un édit de tolérance promulgué le 30 avril 1598 par le roi de France Henri IV. Cet édit accordait notamment des droits de culte, des droits civils et des droits politiques aux protestants1 dans certaines parties du royaume et leur concédait, dans des annexes appelées « brevets », un certain nombre de lieux de refuge (dont environ 60 places de sûretés) et une indemnité annuelle à verser par les finances royales. La promulgation de cet édit mettait fin aux guerres de Religion qui avaient ravagé le royaume de France depuis 1562.",
+"date" : [
+{
+"start" : "30/04/1598",
+"end" : "30/04/1598",
+}
+],
+"filtersIndexes": "{\"memberCurrentDegreesIndex\":[\"5799fa53b20959af0cb8b60d\"],\"memberLevelOfEducationsIndex\":[\"5798c4fc76922e7a0d2f145f\"]}",
+"createdAt": "2019-08-19T06:50:37.803Z",
+"updatedAt": "2019-08-28T16:21:17.802Z",
+"difficulty": 1,
+} 

@@ -1,0 +1,61 @@
+{
+"id": "5cdeaef78d0dbe49ad3cd39f",
+"createdBy": "5c0e206b77a2be2f1c752cf6",
+"owner": "5c0e206b77a2be2f1c752cf6",
+"contentType": "formula",
+"name": "misconception dérivation ln n°1",
+"publishState": "published",
+"local": false,
+"createdAt": "2019-05-17T12:54:15.705Z",
+"updatedAt": "2019-08-28T16:21:43.017Z",
+"text" : "$f(x) = /frac{f.a}{f.a*x^{2} + f.b*x + f.c}$",
+"variables" : [
+{
+"name" : "a",
+"id" : "5cdeaef78d0dbe49ad3cd39fv1",
+"type": "integer",
+"formula" : false,
+"interval" : [
+{
+"up" : "1",
+"down" : "15",
+"step": 1,
+}
+],
+"computation" : null,
+"list" : null
+},
+{
+"name" : "b",
+"id" : "5cdeaef78d0dbe49ad3cd39fv2",
+"type": "integer",
+"formula" : false,
+"interval" : [
+{
+"up" : "0",
+"down" : "15",
+"step" : 1,
+}
+],
+"computation" : null,
+"list": null,
+},
+{
+"name" : "c",
+"id" : "5cdeaef78d0dbe49ad3cd39fv3",
+"type": "integer",
+"formula" : false,
+"interval" : [
+{
+"up" : "0",
+"down" : "15",
+"step" : 1,
+}
+],
+"computation" : null,
+"list" :null,
+},
+],
+"tags" : [],
+"difficulty": 1,
+}

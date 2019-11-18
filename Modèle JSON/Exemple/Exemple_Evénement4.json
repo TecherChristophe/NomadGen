@@ -1,0 +1,21 @@
+{
+
+"createdBy": "5c0e206b77a2be2f1c752cf6",
+"owner": "5c0e206b77a2be2f1c752cf6",
+"contentType": "evénement",
+"name": "Guerre de Trente Ans",
+"publishState": "published",
+"createdAt": "2019-05-17T12:54:15.705Z",
+"updatedAt": "2019-08-28T16:21:43.017Z",
+"explanation" : "La guerre de Trente Ans est une série de conflits armés qui a déchiré l’Europe de 1618 à 1648. Les causes en sont multiples mais son déclencheur est la révolte des sujets tchèques protestants de la maison de Habsbourg, la répression qui suivit et le désir des Habsbourg d’accroître leur hégémonie et celle de la religion catholique dans le Saint-Empire.",
+"date" : [
+{
+"start" : "1618",
+"end" : "1648",
+}
+],
+"filtersIndexes": "{\"memberCurrentDegreesIndex\":[\"5799fa53b20959af0cb8b60d\"],\"memberLevelOfEducationsIndex\":[\"5798c4fc76922e7a0d2f145f\"]}",
+"createdAt": "2019-08-19T06:50:37.803Z",
+"updatedAt": "2019-08-28T16:21:17.802Z",
+"difficulty": 1,
+} 

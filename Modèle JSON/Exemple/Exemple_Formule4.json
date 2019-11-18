@@ -1,0 +1,46 @@
+{
+"id": "5cdeaef78d0dbe49ad3cd40",
+"createdBy": "5c0e206b77a2be2f1c752cf6",
+"owner": "5c0e206b77a2be2f1c752cf6",
+"contentType": "formula",
+"name": "misconception dérivation ln n°2",
+"publishState": "published",
+"local": true,
+"createdAt": "2019-05-17T12:54:15.705Z",
+"updatedAt": "2019-08-28T16:21:43.017Z",
+"text" : "$f(x) = /frac{1}{/ln{f.a*x + f.b}}$",
+"variables" : [
+{
+"name" : "a",
+"id" : "5cdeaef78d0dbe49ad3cd39ev1",
+"type": "integer",
+"formula" : false,
+"interval" : [
+{
+"up" : "1",
+"down" : "15",
+"step" : 1,
+}
+],
+"computation" : null,
+"list" : null
+},
+{
+"name" : "b",
+"id" : "5cdeaef78d0dbe49ad3cd39ev2",
+"type": "integer",
+"formula" : false,
+"interval" : [
+{
+"up" : "0",
+"down" : "15",
+"step" : 1, 
+}
+],
+"computation" : null,
+"list" :null,
+},
+],
+"tags" : [],
+"difficulty": 1,
+} 

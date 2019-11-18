@@ -1,0 +1,21 @@
+{
+
+"createdBy": "5c0e206b77a2be2f1c752cf6",
+"owner": "5c0e206b77a2be2f1c752cf6",
+"contentType": "evénement",
+"name": "Révolution Française",
+"publishState": "published",
+"createdAt": "2019-05-17T12:54:15.705Z",
+"updatedAt": "2019-08-28T16:21:43.017Z",
+"explanation" : "La Révolution française désigne une période de bouleversements sociaux et politiques de grande envergure en France, dans ses colonies et en Europe à la fin du xviiie siècle. La période habituellement comprise s'étend entre l'ouverture des États généraux, le 5 mai 1789, et au plus tard le coup d'État de Napoléon Bonaparte le 9 novembre 1799 (18 brumaire de l'an VIII). Cette période fondamentale de l'histoire de France — et plus généralement période importante de l'histoire de l'Europe — a mis fin à l'Ancien Régime en remplaçant la monarchie absolue par la Première République, un peu plus de trois ans après la prise de la Bastille.",
+"date" : [
+{
+"start" : "5/05/1789",
+"end" : "9/11/1799",
+}
+],
+"filtersIndexes": "{\"memberCurrentDegreesIndex\":[\"5799fa53b20959af0cb8b60d\"],\"memberLevelOfEducationsIndex\":[\"5798c4fc76922e7a0d2f145f\"]}",
+"createdAt": "2019-08-19T06:50:37.803Z",
+"updatedAt": "2019-08-28T16:21:17.802Z",
+"difficulty": 1,
+} 

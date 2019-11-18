@@ -1,0 +1,22 @@
+{
+"id": 
+"createdBy": 
+"owner": 
+"contentType": 
+"name": 
+"publishState": 
+"createdAt": 
+"updatedAt":
+"explanation" : 
+"date" : [
+{
+"start" : 
+"end" : 
+}
+]
+"tags" : []
+"createdAt": 
+"updatedAt": 
+"value": 
+"difficulty": 
+} 

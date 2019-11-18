@@ -1,0 +1,76 @@
+{
+"id": "5cdeaef78d0dbe49ad3cd39d",
+"form": null,
+"memberLevel": null,
+"createdBy": "5c0e206b77a2be2f1c752cf6",
+"owner": "5c0e206b77a2be2f1c752cf6",
+"appIds": "5c5865b3f753c8ee6110eff4",
+"categories": [
+{
+"id": "5cdeaeef240db78c97c440a0",
+"type": "category"
+}
+],
+"contentType": "exercise",
+"textToSpeech": false,
+"editor_access": false,
+"tags": null,
+"name": "Quizz récap mathématiques/histoire 3ème",
+"title": "Quizz récap mathématiques/histoire 3ème",
+"medias": [],
+"publishState": "published",
+"type": "post",
+"linksToItem": [],
+"payload_schema": "none",
+"payload": {},
+"filteredByMemberFields": true,
+"memberBranchesIndex": "",
+"memberCurrentDegreesIndex": "[\"5799fa53b20959af0cb8b60d\"]",
+"memberCurrentDegreeFieldsIndex": "",
+"memberCurrentExamsIndex": "",
+"memberObtainedDegreesIndex": "",
+"memberLevelOfEducationsIndex": "[\"5798c4fc76922e7a0d2f145f\"]",
+"memberMajorsIndex": "",
+"memberMinorsIndex": "",
+"memberLanguageChoicesIndex": "",
+"memberSpecialtiesIndex": "",
+"memberOptionalSubjectsIndex": "",
+"memberCurrentSchoolsIndex": "",
+"memberCountriesIndex": "",
+"memberStatesIndex": "",
+"numberOfActivatedMemberFilter": 2,
+"resultsConfiguration": [],
+"displayResultAfterEachQuestion": true,
+"applyMemberFilterRecursively": true,
+"memberWishedDomainsIndex": "",
+"memberWishedDomainOptionsIndex": "",
+"filtersIndexes": "{\"memberCurrentDegreesIndex\":[\"5799fa53b20959af0cb8b60d\"],\"memberLevelOfEducationsIndex\":[\"5798c4fc76922e7a0d2f145f\"]}",
+"slug": "Un-embrasement-mondial-et-ses-grandes-etapes",
+"createdAt": "2019-05-17T12:54:15.705Z",
+"updatedAt": "2019-08-28T16:21:43.017Z",
+"parentsFixedAt": "2019-08-28T22:21:43.000Z",
+"pools" : [
+{
+"searchList" : true,
+"searchFilters" : false,
+"Random" : true,
+"numberOfQuestion" :3,
+"filters": [],
+"id" : ["5d5a46bd3321304dec991813", "5d5a46bd332130c991813", "5d5a4321304dec991813"],
+},
+{
+"searchList" : false,
+"searchFilters" : true,
+"Random" : true,
+"numberOfQuestion" :2,
+"filters" : [
+{
+"LevelofEducation" : "5cdeaef78be49ad3cd39d",
+"Discipline" : "5cdd0dbe49ad3cd39d",
+"Chapter" : "5cdeaef78d0dbe4939d",
+}
+],
+"id": [],
+}
+]
+}

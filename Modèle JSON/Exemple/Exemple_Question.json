@@ -1,0 +1,167 @@
+{
+"id": "5d5a46bd3321304dec991813",
+"form": null,
+"memberLevel": null,
+"createdBy": "5645fd30c823d252165736d9",
+"owner": "5645fd30c823d252165736d9",
+"contentType": "question",
+"textToSpeech": false,
+"editor_access": false,
+"tags": null,
+"categories": [],
+"title": "Dérivation de la fonction logarithmique",
+"medias": [],
+"content": "<p>Quel est la dérivée de cette formule : f1.text <br></p>",
+"secondaryContent": null,
+"explanation": "<p>La formule a utiliser est $u'/u$<br></p>",
+"appIds": "5c5865b3f753c8ee6110eff4",
+"publishState": "published",
+"type": "question",
+"formula" : [
+{
+"id" : "5cdeaef78d0dbe49ad3cd39d", 
+"localId" : "5d5a46bd3321304dec9918131",
+"name" : "f1",
+"infoVariables": [],
+},
+{
+"id" : "5cdeaef78d0dbe49ad3cd39e",
+"localId" : "5d5a46bd3321304dec9918132",
+"name" : "f2",
+"infoVariables": [
+{
+"idVariable" : "5cdeaef78d0dbe49ad3cd39ev1",
+"interval" : [],
+"computation" : "",
+"list" : [],
+"linkTo" :"5d5a46bd3321304dec9918131v1",
+},  
+{
+"idVariable" : "5cdeaef78d0dbe49ad3cd39ev2",
+"interval" : [],
+"computation" : "",
+"list" : [],
+"linkTo" :"5d5a46bd3321304dec9918131v2",
+}
+]
+},
+{
+"id" : "5cdeaef78d0dbe49ad3cd39f",
+"localId" : "5d5a46bd3321304dec9918133",
+"name" : "f3",
+"infoVariables": [
+{
+"idVariable" : "5cdeaef78d0dbe49ad3cd39fv1",
+"interval" : [],
+"computation" : "",
+"lsit" : [],
+"linkTo" :"5d5a46bd3321304dec9918131v1",
+},
+{
+"idVariable" : "5cdeaef78d0dbe49ad3cd39fv2",
+"interval" : [],
+"computation" : "",
+"list" : [],
+"linkTo" :"5d5a46bd3321304dec9918131v2",
+},
+{
+"idVariable" : "5cdeaef78d0dbe49ad3cd39fv3",
+"interval" : [],
+"computation" : "",
+"list" : [0],
+"linkTo" :"",
+}
+]
+},
+{
+"id" : "5cdeaef78d0dbe49ad3cd40",
+"localId" : "5d5a46bd3321304dec9918134",
+"name" : "f4",
+"infoVariables": [
+{
+"idVariable" : "5cdeaef78d0dbe49ad3cd40v1",
+"interval" : [],
+"computation" : "",
+"list" : [],
+"linkTo" :"5d5a46bd3321304dec9918131v&",
+},
+{
+"idVariable" : "5cdeaef78d0dbe49ad3cd40v2",
+"interval" : [],
+"computation" : "",
+"list" : [],
+"linkTo" :"5d5a46bd3321304dec9918131v2",
+}
+]
+}
+],
+"linksToItem": [],
+"payload_schema": "none",
+"payload": {},
+"filteredByMemberFields": true,
+"memberBranchesIndex": "",
+"memberCurrentDegreesIndex": "[\"5799fa53b20959af0cb8b60d\"]",
+"memberCurrentDegreeFieldsIndex": "",
+"memberCurrentExamsIndex": "",
+"memberObtainedDegreesIndex": "",
+"memberLevelOfEducationsIndex": "[\"5798c4fc76922e7a0d2f145f\"]",
+"memberMajorsIndex": "",
+"memberMinorsIndex": "",
+"memberLanguageChoicesIndex": "",
+"memberSpecialtiesIndex": "",
+"memberOptionalSubjectsIndex": "",
+"memberCurrentSchoolsIndex": "",
+"memberCountriesIndex": "",
+"memberStatesIndex": "",
+"numberOfActivatedMemberFilter": 2,
+"allowMultipleResponses": false,
+"numberOfAnswersTotal" : 4,
+"choices": [
+{
+"numberOfAnswers" : 1,
+"filters" : [],
+"eventId": "",
+"content": "f1.texte",
+"weight": 100,
+"explanation": "",
+"explanationMediumId": null
+},
+{
+"numberOfAnswers" : 1,
+"filters" : [],
+"eventId": "",
+"content": "f2.texte",
+"weight": 0,
+"explanation": "",
+"explanationMediumId": null
+},
+{
+"numberOfAnswers" : 1,
+"filters" : [],
+"eventId": "",
+"content": "f3.texte",
+"weight": 0,
+"explanation": "",
+"explanationMediumId": null
+},
+{
+"numberOfAnswers" : 1,
+"filters" : [],
+"eventId": "",
+"content": "Aucune",
+"weight": 0,
+"explanation": "",
+"explanationMediumId": null
+}
+],
+"memberWishedDomainsIndex": "",
+"memberWishedDomainOptionsIndex": "",
+"filtersIndexes": "{\"memberCurrentDegreesIndex\":[\"5799fa53b20959af0cb8b60d\"],\"memberLevelOfEducationsIndex\":[\"5798c4fc76922e7a0d2f145f\"]}",
+"slug": "Dérivation de la fonction logarithmique",
+"name": "Dérivation de la fonction logarithmique",
+"createdAt": "2019-08-19T06:50:37.803Z",
+"updatedAt": "2019-08-28T16:21:17.802Z",
+"value": 1,
+"difficulty": 1,
+"parentsFixedAt": "2019-08-28T22:21:17.000Z",
+}

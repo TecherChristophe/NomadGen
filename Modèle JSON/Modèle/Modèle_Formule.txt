@@ -1,0 +1,35 @@
+{
+"id": 
+"createdBy": 
+"owner": 
+"contentType": 
+"name": 
+"publishState":
+"createdAt":
+"updatedAt": 
+"text" :
+"variables" : [
+	{
+	"name" : 
+	"id" : 
+	"formula" : 
+	"interval" : [
+		{
+		"up" :
+		"down" : 
+		"step" : 
+		}
+		{
+		"up" :
+		"down" : 
+		"step" : 
+		}
+	],
+	"computation" : 
+	"list" : 
+	}
+],
+"tags" : []
+"value":
+"difficulty": 
+} 
