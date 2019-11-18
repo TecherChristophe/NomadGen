@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61a24917-473f-4282-a3ab-b788e76fccc7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SxvCKQPM5uVDJOIAYyGJab67CL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="var myobj =         {             id:,             name:,             form:,             memberLevel:,             createdBy:,             owner:,             contentType:             textToSpeech:             editor_access:             tags:             categories: [             {                 id:                 type:             }],             title:             medias:             content:            secondaryContent:     &quot;explanation&quot;:     &quot;appIds&quot;:     &quot;publishState&quot;:     &quot;type&quot;:     &quot;formula&quot; : [         {             &quot;id&quot; :                 &quot;localId&quot; :     &quot;name&quot; :     &quot;infoVariables&quot;: [         {             &quot;idVariable&quot; :                 &quot;interval&quot; : [         {             &quot;up&quot; :                 &quot;down&quot; :     &quot;step&quot; : }, ],     &quot;computation&quot; :     &quot;list&quot; :     &quot;linkTo&quot; : } ] } ],     &quot;linksToItem&quot;: [],         &quot;payload_schema&quot;:     &quot;payload&quot;:     &quot;filteredByMemberFields&quot;:     &quot;memberBranchesIndex&quot;:     &quot;memberCurrentDegreesIndex&quot;:     &quot;memberCurrentDegreeFieldsIndex&quot;:     &quot;memberCurrentExamsIndex&quot;:     &quot;memberObtainedDegreesIndex&quot;:     &quot;memberLevelOfEducationsIndex&quot;:     &quot;memberMajorsIndex&quot;:     &quot;memberMinorsIndex&quot;:     &quot;memberLanguageChoicesIndex&quot;:     &quot;memberSpecialtiesIndex&quot;:     &quot;memberOptionalSubjectsIndex&quot;:     &quot;memberCurrentSchoolsIndex&quot;:     &quot;memberCountriesIndex&quot;:     &quot;memberStatesIndex&quot;:     &quot;numberOfActivatedMemberFilter&quot;:     &quot;allowMultipleResponses&quot;:     &quot;numberOfAnswersTotal&quot; :     &quot;choices&quot;: [         {             &quot;numberOfAnswers&quot; :                 &quot;filters&quot; : [         {             &quot;type&quot; :                 &quot;levelofEducation&quot; :     &quot;discipline&quot; :     &quot;chapter&quot; : } ],     &quot;eventId&quot;:     &quot;content&quot;:     &quot;weight&quot;:     &quot;explanation&quot;:     &quot;explanationMediumId&quot;: }, ],     &quot;memberWishedDomainsIndex&quot;:     &quot;memberWishedDomainOptionsIndex&quot;:     &quot;filtersIndexes&quot;:     &quot;slug&quot;:     &quot;createdAt&quot;:     &quot;updatedAt&quot;:     &quot;value&quot;:     &quot;difficulty&quot;:     &quot;parentsFixedAt&quot;: } " />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.App.js">
+    <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/App.js" working-dir="$PROJECT_DIR$/.idea">
+      <method v="2" />
+    </configuration>
+    <configuration name="Script collection.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/Script collection.js" working-dir="$PROJECT_DIR$/.idea">
+      <method v="2" />
+    </configuration>
+    <configuration name="ScriptQuizz.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/ScriptQuizz.js" working-dir="$PROJECT_DIR$/.idea">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.App.js" />
+        <item itemvalue="Node.js.ScriptQuizz.js" />
+        <item itemvalue="Node.js.Script collection.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61a24917-473f-4282-a3ab-b788e76fccc7" name="Default Changelist" comment="" />
+      <created>1572516917714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572516917714</updated>
+      <workItem from="1572516920610" duration="604000" />
+      <workItem from="1572517933372" duration="986000" />
+      <workItem from="1572525112152" duration="902000" />
+      <workItem from="1572867818156" duration="1464000" />
+      <workItem from="1572869657637" duration="77070000" />
+      <workItem from="1573570262703" duration="48000" />
+      <workItem from="1573570745462" duration="9495000" />
+      <workItem from="1573652125981" duration="37463000" />
+      <workItem from="1573823858822" duration="5433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
