@@ -1,12 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61a24917-473f-4282-a3ab-b788e76fccc7" name="Default Changelist" comment="" />
+    <list default="true" id="61a24917-473f-4282-a3ab-b788e76fccc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/latex-to-js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Question.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Question.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Script collection.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Script collection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ScriptQuizz.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ScriptQuizz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modèle JSON/Exemple/Exemple_Formule.json" beforeDir="false" afterPath="$PROJECT_DIR$/Modèle JSON/Exemple/Exemple_Formule.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modèle JSON/Exemple/Exemple_Formule2.json" beforeDir="false" afterPath="$PROJECT_DIR$/Modèle JSON/Exemple/Exemple_Formule2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modèle JSON/Exemple/Exemple_Formule3.json" beforeDir="false" afterPath="$PROJECT_DIR$/Modèle JSON/Exemple/Exemple_Formule3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modèle JSON/Exemple/Exemple_Formule4.json" beforeDir="false" afterPath="$PROJECT_DIR$/Modèle JSON/Exemple/Exemple_Formule4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modèle JSON/Exemple/Exemple_Question.json" beforeDir="false" afterPath="$PROJECT_DIR$/Modèle JSON/Exemple/Exemple_Question.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modèle JSON/Exemple/Exemple_Question2.json" beforeDir="false" afterPath="$PROJECT_DIR$/Modèle JSON/Exemple/Exemple_Question2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modèle JSON/Modèle/Modèle_Question.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Modèle JSON/Modèle/Modèle_Question.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,8 +44,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SxvCKQPM5uVDJOIAYyGJab67CL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.0" />
@@ -57,11 +91,19 @@
     <configuration name="ScriptQuizz.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/ScriptQuizz.js" working-dir="$PROJECT_DIR$/.idea">
       <method v="2" />
     </configuration>
+    <configuration name="latex-to-js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/latex-to-js.js" working-dir="$PROJECT_DIR$/.idea">
+      <method v="2" />
+    </configuration>
+    <configuration name="testReadLine.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/testReadLine.js" working-dir="$PROJECT_DIR$/.idea">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.App.js" />
-        <item itemvalue="Node.js.ScriptQuizz.js" />
         <item itemvalue="Node.js.Script collection.js" />
+        <item itemvalue="Node.js.ScriptQuizz.js" />
+        <item itemvalue="Node.js.testReadLine.js" />
+        <item itemvalue="Node.js.latex-to-js.js" />
       </list>
     </recent_temporary>
   </component>
@@ -84,10 +126,38 @@
       <workItem from="1573570745462" duration="9495000" />
       <workItem from="1573652125981" duration="37463000" />
       <workItem from="1573823858822" duration="5433000" />
+      <workItem from="1574070435561" duration="17707000" />
+      <workItem from="1574172710505" duration="5501000" />
+      <workItem from="1574242255006" duration="92041000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/.idea/App.js</url>
+          <line>324</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
