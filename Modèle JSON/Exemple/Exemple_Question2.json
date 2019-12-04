@@ -39,6 +39,7 @@
 "numberOfActivatedMemberFilter": 2,
 "allowMultipleResponses": false,
 "numberOfAnswersTotal" : 4,
+"numberOfAnswersWanted": 3,
 "choices": [
 {
 "numberOfAnswers" : 1,

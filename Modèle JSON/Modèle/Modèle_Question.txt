@@ -65,6 +65,7 @@
 "numberOfActivatedMemberFilter": 
 "allowMultipleResponses": 
 "numberOfAnswersTotal" : 
+"numberOfAnswersWanted": 
 "choices": [
 	{
 	"numberOfAnswers" : 

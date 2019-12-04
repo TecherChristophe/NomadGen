@@ -1,5 +1,5 @@
 {
-"id": "5d5a46bd3321304dec991813",
+"_id": "5d5a46bd3321304dec991813",
 "form": null,
 "memberLevel": null,
 "createdBy": "5645fd30c823d252165736d9",
@@ -34,14 +34,14 @@
 "interval" : [],
 "computation" : "",
 "list" : [],
-"linkTo" :"5d5a46bd3321304dec9918131v1",
+"linkTo" :"5cdeaef78d0dbe49ad3cd39dv1",
 },  
 {
 "idVariable" : "5cdeaef78d0dbe49ad3cd39ev2",
 "interval" : [],
 "computation" : "",
 "list" : [],
-"linkTo" :"5d5a46bd3321304dec9918131v2",
+"linkTo" :"5cdeaef78d0dbe49ad3cd39dv2",
 }
 ]
 },
@@ -55,14 +55,14 @@
 "interval" : [],
 "computation" : "",
 "lsit" : [],
-"linkTo" :"5d5a46bd3321304dec9918131v1",
+"linkTo" :"5cdeaef78d0dbe49ad3cd39dv1",
 },
 {
 "idVariable" : "5cdeaef78d0dbe49ad3cd39fv2",
 "interval" : [],
 "computation" : "",
 "list" : [],
-"linkTo" :"5d5a46bd3321304dec9918131v2",
+"linkTo" :"5cdeaef78d0dbe49ad3cd39dv2",
 },
 {
 "idVariable" : "5cdeaef78d0dbe49ad3cd39fv3",
@@ -83,14 +83,14 @@
 "interval" : [],
 "computation" : "",
 "list" : [],
-"linkTo" :"5d5a46bd3321304dec9918131v&",
+"linkTo" :"5cdeaef78d0dbe49ad3cd39dv1",
 },
 {
 "idVariable" : "5cdeaef78d0dbe49ad3cd40v2",
 "interval" : [],
 "computation" : "",
 "list" : [],
-"linkTo" :"5d5a46bd3321304dec9918131v2",
+"linkTo" :"5cdeaef78d0dbe49ad3cd39dv2",
 }
 ]
 }
@@ -116,12 +116,13 @@
 "numberOfActivatedMemberFilter": 2,
 "allowMultipleResponses": false,
 "numberOfAnswersTotal" : 4,
+"numberOfAnswersWanted": 4,
 "choices": [
 {
 "numberOfAnswers" : 1,
 "filters" : [],
 "eventId": "",
-"content": "f1.texte",
+"content": "f1.text",
 "weight": 100,
 "explanation": "",
 "explanationMediumId": null
@@ -130,7 +131,7 @@
 "numberOfAnswers" : 1,
 "filters" : [],
 "eventId": "",
-"content": "f2.texte",
+"content": "f2.text",
 "weight": 0,
 "explanation": "",
 "explanationMediumId": null
@@ -139,7 +140,7 @@
 "numberOfAnswers" : 1,
 "filters" : [],
 "eventId": "",
-"content": "f3.texte",
+"content": "f3.text",
 "weight": 0,
 "explanation": "",
 "explanationMediumId": null
